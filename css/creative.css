@@ -476,3 +476,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+.img.slideshow {
+  width:500px;
+  height:200px;
+}
